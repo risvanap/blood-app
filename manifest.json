@@ -1,0 +1,9 @@
+{
+  "short_name": "BloodBridge",
+  "name": "BloodBridge - Find & Donate Blood",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#e63946",
+  "background_color": "#f4f6fb"
+}
